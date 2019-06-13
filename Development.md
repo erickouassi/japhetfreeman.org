@@ -19,3 +19,7 @@ Manual plugins update
 
 Minor error fix and improvement
 
+* 6/12/2019
+
+Manual plugins update
+
