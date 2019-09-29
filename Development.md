@@ -27,3 +27,7 @@ Manual plugins update
 
 Manual plugins update 
 
+
+* 9/28/2019
+
+Removed wordpress site
