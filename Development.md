@@ -31,3 +31,7 @@ Manual plugins update
 * 9/28/2019
 
 Removed wordpress site
+
+* 10/10/2019
+
+HTML, CSS & JAVASCRIPT
