@@ -35,3 +35,7 @@ Removed wordpress site
 * 10/10/2019
 
 HTML, CSS & JAVASCRIPT
+
+* 10/18/2019
+
+Design and add  page not found.
