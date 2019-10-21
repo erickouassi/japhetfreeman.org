@@ -39,3 +39,7 @@ HTML, CSS & JAVASCRIPT
 * 10/18/2019
 
 Design and add  page not found.
+
+* 10/20/2019
+
+Design site.
